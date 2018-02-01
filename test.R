@@ -4,6 +4,6 @@
 
 
 library(DT)
-library(tidyverse)
+suppressMessages(library(tidyverse))
 
 plot(mtcars$mpg, mtcars$hp)
