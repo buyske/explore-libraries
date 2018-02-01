@@ -14,4 +14,6 @@ I had tea.
 
 [test plot](test.md)
 
-wingardium leviosa
+
+wingardium levOSA
+
