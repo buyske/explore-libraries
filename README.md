@@ -13,3 +13,5 @@ Let's look at a file
 I had tea.
 
 [test plot](test.md)
+
+wingardium leviosa
