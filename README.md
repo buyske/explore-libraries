@@ -11,3 +11,5 @@ Let's look at a file
 [practice](00_filesystem-practice_jenny.md)
 
 I had tea.
+
+[test plot](test.md)
